@@ -19,8 +19,12 @@
 |PstgreSql|http://localhost:5432 |postgres|postgres|
 
 
-## Sample Screencast
+## Compose Up Sample Screencast
 
-![alt text](saved.gif)
+![alt text](https://github.com/bilgeadamdev/docker_postgresql-redis-rabbitmq/blob/master/up_postgresql-redis-rabbitmq.gif)
+
+## Compose Down Sample Screencast
+
+![alt text](https://github.com/bilgeadamdev/docker_postgresql-redis-rabbitmq/blob/master/down_postgresql-redis-rabbitmq.gif)
 
 

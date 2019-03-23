@@ -11,12 +11,14 @@
 
 **Table for credentials**
 
-|Container|         Port         |Username|Password|
-|:-------:|:--------------------:|:------:|:------:|
-|  Redis  |http://localhost:6379 | -----  | -----  |
-|RabbitMQ |http://localhost:5672 | -----  | -----  |
-|RabbitMQ |http://localhost:15672| guest  | guest  |
-|PstgreSql|http://localhost:5432 |postgres|postgres|
+
+|Container |         Port         |Username|Password|
+|:--------:|:--------------------:|:------:|:------:|
+|  Redis   |http://localhost:6379 | -----  | -----  |
+| RabbitMQ |http://localhost:5672 | -----  | -----  |
+| RabbitMQ |http://localhost:15672| guest  | guest  |
+|PostgreSql|http://localhost:5432 |postgres|postgres|
+
 
 **Check containers status**
 

@@ -18,13 +18,17 @@
 |RabbitMQ |http://localhost:15672| guest  | guest  |
 |PstgreSql|http://localhost:5432 |postgres|postgres|
 
+**Check containers status**
+
+- After containers is up run "**docker containers ls**" to see their status
+- run "**telnet localhost 5672**" , "**telnet localhost  15672**"  , "**telnet localhost 6379**" ,"**telnet localhost 5432**"  to get response from containers
 
 ## Compose Up Sample Screencast
 
-![alt text](https://github.com/bilgeadamdev/docker_postgresql-redis-rabbitmq/blob/master/up_postgresql-redis-rabbitmq.gif)
+![alt text](".\images\up_postgresql-redis-rabbitmq.gif")
 
 ## Compose Down Sample Screencast
 
-![alt text](https://github.com/bilgeadamdev/docker_postgresql-redis-rabbitmq/blob/master/down_postgresql-redis-rabbitmq.gif)
+![alt text](".\images\down_postgresql-redis-rabbitmq.gif")
 
 

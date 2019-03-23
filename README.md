@@ -25,10 +25,10 @@
 
 ## Compose Up Sample Screencast
 
-![alt text]("~\images\up_postgresql-redis-rabbitmq.gif")
+![compose-up.gif]("https://github.com/bilgeadamdev/docker_postgresql-redis-rabbitmq/blob/master/images/up_postgresql-redis-rabbitmq.gif")
 
 ## Compose Down Sample Screencast
 
-![alt text]("~\images\down_postgresql-redis-rabbitmq.gif")
+![compose-down.gif]("https://github.com/bilgeadamdev/docker_postgresql-redis-rabbitmq/blob/master/images/down_postgresql-redis-rabbitmq.gif")
 
 
